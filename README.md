@@ -8,6 +8,8 @@ Projeto de API REST para prática de JavaScript.
 Livraria com sistema de cadastro e manejo de livros, autores e editoras.
 
 
+## Projeto by ALURA
+
 ## Stack utilizada
 
 * `Node.js` v16.14.2
